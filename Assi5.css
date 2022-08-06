@@ -1,0 +1,102 @@
+body {
+  background-color: #f0f0f0;
+}
+
+#btn2 {
+  height: 35px;
+  width: 200px;
+  border-radius: 5px;
+  background-color: rgb(248, 145, 110);
+  color: rgb(255, 255, 255);
+}
+
+#btnav {
+  border-radius: 5px;
+  background-color: rgb(248, 145, 110);
+  color: rgb(255, 255, 255);
+ }
+
+
+img {
+  border-radius: 20px;
+}
+
+
+#hr1 {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+
+#searchbox {
+  padding: 4px;
+  margin-top: 8px;
+  font-size: 17px;
+  padding-left: 270px;
+  border: 1px;
+  border-right: 0px white;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+#searchicon {
+  float: right;
+  padding: 4px;
+  margin-top: 8px;
+  margin-right: 16px;
+  color: #00b0bd;
+  border-left: 0px white;
+  font-size: 17px;
+  border: 1px solid hsl(0, 9%, 89%);
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  background-color: white;
+}
+
+#searchbox1 {
+  padding: 4px;
+  margin-top: 8px;
+  font-size: 17px;
+  padding-left: 200px;
+  border: 1px;
+  border-right: 0px white;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+
+}
+
+
+
+
+.dot {
+  height: 7px;
+  width: 7px;
+  background-color: rgb(236, 123, 47);
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  margin-left: -15px;
+  margin-top: 6px;
+
+}
+
+.maindiv {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 2%;
+  box-shadow: 0px 0px 0px 0px whitesmoke;
+ 
+}
+
+#myModal {
+  position: absolute;
+  left: 50%;
+  top: 60%;
+  transform: translate(-50%, -50%);
+}
+
+.search-container {
+  margin-top: -10px;
+}
+
+
